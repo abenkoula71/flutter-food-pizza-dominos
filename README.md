@@ -7,4 +7,3 @@
 <img src="https://github.com/abenkoula71/flutter-food-pizza-dominos/blob/main/Screenshot_1643401922.png" width="300" />
 
 <hr>
-
